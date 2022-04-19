@@ -35,7 +35,7 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
-            .previewDevice("iPhone 12 mini")
+            .previewDevice("iPhone 13 Pro")
             .preferredColorScheme(.light)
     }
 }
